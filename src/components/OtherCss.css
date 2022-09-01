@@ -1,0 +1,319 @@
+.creatAccoutdiv{
+    background-color: black;
+}
+
+.createaccoutcontenter{
+    color: #fff;
+    padding: 3rem;
+
+}
+
+.createcaccotn{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.createio{
+    text-align: center;
+    padding: 1rem;
+}
+
+.imagesidecrete{
+    font-size: 50px;
+}
+
+.colorgree{
+    color: gray;
+    padding-right: 1rem;
+    font-weight: bolder;
+    font-size: 1.4rem;
+}
+
+.passinwmrn{
+    color: white;
+    padding-right: 1rem;
+    font-size: 1.4rem;
+    font-weight: bolder;  
+}
+
+.testside p{
+    color: rgb(173, 173, 173);
+    line-height: 25px;
+    padding-top: 1rem;
+}
+
+.createio:hover{
+    background-color: #111111;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    cursor: pointer;
+}
+
+.whycontainer{
+    background-color: #111111;
+    color: aliceblue;
+}
+.whyheaderpart{
+    padding: 2rem;
+    text-align: center;
+}
+
+.whyheadecontent h1{
+    font-weight: 40px;
+    font-weight: 700;
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+.whyheadecontent p{
+    font-size: 14px;
+}
+
+.whygridpart{
+    padding: 4rem 2rem;
+}
+
+.banksecurecontent{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+.bankicons{
+    /* width: 20%;
+    height: 30%; */
+    margin-bottom: 1rem;
+    /* border: 1px solid grey; */
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+
+.bankitems{
+    padding: 2.5rem 1.4rem;
+    background-color: #fff;
+    color: black;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+
+
+.bankitems:hover{
+    background-color: black;
+    color: rgb(197, 197, 197);
+   
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.bankicons{
+    font-size: 40px;
+}
+
+.banktexts h3{
+    font-size: 17px;
+}
+
+
+.banktexts p{
+    font-size: 12px;
+}
+
+.growitems{
+background-color: rgb(255, 255, 255);
+display: grid;
+grid-template-columns: repeat(2, 1fr);
+
+}
+
+.textimage img{
+    height: 90vh;
+    width: 100%;
+}
+
+.growtextside{
+    padding: 3rem 3rem 1rem 3rem;
+    background-color: #111111;
+    color: #fff;
+}
+
+
+.tetsheader h1{
+    font-size: 40px;
+    font-weight: bolder;
+    padding-top: 3rem;
+    text-transform: capitalize;
+    
+}
+
+.iconall{
+    padding: 0.5rem;
+    display: grid;
+    grid-template-columns: 15% 80%;
+}
+
+.iconside{
+    font-size: 2rem;
+    color: antiquewhite;
+}
+
+.listextside{
+    padding:0.5rem;
+}
+
+.textlist button{
+    margin-top: 10px;
+    padding: 10px 30px;
+    font-size: 12px;
+    border-radius: 3px;
+    transition: .6s ease-in-out;
+    cursor: pointer;
+    background-color: gray;
+    border: none;
+    -webkit-transition: .6s ease-in-out;
+    -moz-transition: .6s ease-in-out;
+    -ms-transition: .6s ease-in-out;
+    -o-transition: .6s ease-in-out;
+}
+
+.ourworldcontier{
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.allworldcontant{
+    padding: 6rem;
+    background-color: #111111ac;
+    color: white;
+}
+
+.allworldcontant h1{
+    text-transform: capitalize;
+    font-size: 40px;
+}
+.allworldcontant button{
+    margin-top: 10px;
+    padding: 10px 30px;
+    font-size: 12px;
+    border-radius: 3px;
+    transition: .6s ease-in-out;
+    cursor: pointer;
+    background-color: gray;
+    border: none;
+    -webkit-transition: .6s ease-in-out;
+    -moz-transition: .6s ease-in-out;
+    -ms-transition: .6s ease-in-out;
+    -o-transition: .6s ease-in-out;
+}
+
+
+.KwikFooter{
+    color: #fff;
+    background-color: #111111;
+    padding: 3rem;
+}
+
+.kwikimage{
+    padding-bottom: 1rem;
+}
+
+.socialicons{
+    display: flex;
+    padding-top: 1rem;
+}
+
+.iconaos{
+    background-color: grey;
+    margin-right: 1rem;
+    font-size: 1.3rem;
+    padding: 0.3rem 0.54rem;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.changecolpor{
+    color: antiquewhite;
+}
+
+.twermsall{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.5rem 2rem;
+}
+.termsconter{
+    background-color: black;
+}
+@media screen and (max-width:920px){
+    .banksecurecontent{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        text-align: center;
+    }
+
+    .createcaccotn{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+
+    .growitems{
+      
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        
+        }
+    
+  }
+
+
+  @media screen and (max-width:730px){
+    .banksecurecontent{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        text-align: center;
+    }
+  }
+
+  @media screen and (max-width:600px){
+    .banksecurecontent{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+        text-align: center;
+    }
+
+    .allworldcontant{
+        padding: 3rem;
+    }
+
+    .createcaccotn{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 20px;
+    }
+    
+  }
